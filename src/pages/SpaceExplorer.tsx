@@ -11,7 +11,7 @@ const SpaceExplorer = () => {
       {/* Back button */}
       <div className="absolute top-4 left-4 z-10">
         <Link to="/">
-          <Button variant="outline" size="sm" className="border-white/20 text-yellow hover:bg-white/10">
+          <Button variant="outline" size="sm" className="border-white/20 text-yellow hover:bg-white">
             <ArrowLeft className="mr-2 h-4 w-4" />
             Back to Home
           </Button>
