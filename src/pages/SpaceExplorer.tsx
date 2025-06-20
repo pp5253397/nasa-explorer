@@ -7,7 +7,7 @@ import { Link } from 'react-router-dom';
 
 const SpaceExplorer = () => {
   return (
-    <div className="w-full h-screen bg-black relative">
+    <div className="w-full h-screen bg-white relative">
       {/* Back button */}
       <div className="absolute top-4 left-4 z-10">
         <Link to="/">
