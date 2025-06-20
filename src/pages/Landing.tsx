@@ -74,14 +74,14 @@ const Landing = () => {
                 Launch Explorer
               </Button>
             </Link>
-            <Button 
+{/*             <Button 
               variant="outline" 
               size="lg" 
               className="border-2 border-white/30 text-white hover:bg-white/10 hover:border-white/50 px-12 py-6 text-xl font-light rounded-full backdrop-blur-sm transition-all duration-300"
             >
               <Telescope className="mr-3 h-6 w-6" />
               Learn More
-            </Button>
+            </Button> */}
           </div>
         </div>
       </section>
